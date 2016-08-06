@@ -1,0 +1,8 @@
+/_build
+/cover
+/deps
+/apps/receipt/info
+erl_crash.dump
+*.ez
+*.o
+*.obj
