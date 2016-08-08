@@ -1,6 +1,6 @@
-# Posit
+#POSit
 
-**TODO: Add description**
+A distributed Point of Sale system for small business.
 
 ## Installation
 
