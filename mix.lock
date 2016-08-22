@@ -1,1 +1,1 @@
-%{"esqlite": {:hex, :esqlite, "0.2.1"}}
+%{"esqlite": {:hex, :esqlite, "0.2.1", "0e2896f177180b33e5a8fe65342b4e81de46e0db59e4cbf6e8b9101e98d423fd", [:rebar, :make], []}}
